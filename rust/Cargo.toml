@@ -1,9 +1,0 @@
-
-[workspace]
-members = [
-	'apps/myapp',
-	'libs/cats',
-]
-
-[profile.release]
-lto = true
